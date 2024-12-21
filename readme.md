@@ -10,6 +10,8 @@ The platform utilizes a custom ERC-20 token, **StudyToken (STDY)**, to handle re
 
 ## Contract Address
 0xE1c52a2B0c396Da31a047C9F66578979CaA62b75
+![image](https://github.com/user-attachments/assets/01b5ac95-9745-44c0-a507-a7582bdbaabf)
+
 ## Project Vision
 The goal of the **StudySessionPlatform** is to create an engaging and incentivized educational environment where participants are rewarded for their contribution to study sessions. By leveraging blockchain technology, the platform ensures fairness, transparency, and security in the distribution of rewards. Ultimately, the vision is to foster a global community of learners who can collaborate, share knowledge, and be rewarded for their educational efforts in a decentralized manner.
 
